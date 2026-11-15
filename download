@@ -1,0 +1,18 @@
+# Raw and processed data (potentially too large for GitHub)
+vehicles.csv
+vehicles_cleaned.csv
+craigslist-carstrucks-data.zip
+*.zip
+
+# Sensitive Kaggle credentials
+kaggle.json
+.kaggle/
+.env
+
+# Python/Jupyter byproducts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
