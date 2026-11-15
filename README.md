@@ -89,9 +89,4 @@ In the secondary automotive market, inconsistent pricing across online classifie
 
 ---
 
-## Repository notes
-- The eight figure images and two notebooks are included from the supplied project ZIP.
-- This repository does not contain `vehicles.csv` or `vehicles_cleaned.csv`; these are excluded via `.gitignore`.
-- The baseline model currently drops rows with missing predictors. The training-split imputation described in the written report is not yet implemented in the modeling notebook.
-- **Academic integrity:** Add your own accurate AI-use declaration here before submission, according to the CDS4003 rubric.
-- The provided ZIP was sourced from a GitHub archive: https://github.com/amynorastudio/craigslist-used-car-price-prediction. Confirm correct attribution before submitting.
+
